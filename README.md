@@ -1,2 +1,0 @@
-# gesta
-AFPA Assigment
